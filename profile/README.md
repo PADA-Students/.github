@@ -1,8 +1,6 @@
 ## Αυτή η ομάδα είναι για μαθητές ΠΑΔΑ
 
-Για την εγγραφή σας στον οργανισμό, στείλτε μου mail στο bill88t@gmail.com,<br />
-από το ακαδημαικό σας email με:
- - Ονοματεπώνυμο
- - Tο github username σας
+Για την εγγραφή στον οργανισμό θα πρέπει να στείλετε με τον ακαδημαικό σας mail στο bill88t@gmail.com <br>
+το ονοματεπώνυμο σας με το github username σας για την αυτοματοποίση .
 
-Μολις λάβετε δικαιώματα, διαβάστε το φυλλο [οδηγιών](https://github.com/PADA-Students/Workflow/blob/main/README.md)
+Μόλις λάβετε δικαιώματα, διαβάστε το φυλλο [οδηγιών](https://github.com/PADA-Students/Workflow/blob/main/README.md)
